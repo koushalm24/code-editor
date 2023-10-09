@@ -1,4 +1,5 @@
 # Code Editor Project
+[![Netlify Status](https://api.netlify.com/api/v1/badges/7889d87b-cf6e-4270-8638-695fb5bc9e4c/deploy-status)](https://app.netlify.com/sites/codeeditorbykoushalm24/deploys)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ![GitHub last commit](https://img.shields.io/github/last-commit/koushalm24/code-editor)
 
